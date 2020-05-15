@@ -1,0 +1,19 @@
+{
+  "name": "typeracer_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "react-router-dom": "^5.1.2",
+    "socket.io": "^2.3.0"
+  }
+}
